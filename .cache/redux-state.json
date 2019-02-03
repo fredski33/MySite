@@ -1,0 +1,1522 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/home/dupouy/Documents/A_cab/MySite/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/home/dupouy/Documents/A_cab/MySite/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cd2168daa53ba2f16810e805f62bea37",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5172794224e195c2799276b5afb06785",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ade6c168d0c4734cf509b6e5d69d3512",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "723485c0d20b4325f8387cfdb6904699",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d94b1af613983b2960bb3b6fc3a63d8f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "217310de7c02bf2268adae4f7cecaed9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9ac1ca5e5989985a33784660246e65b7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ed36fe0a7824cdc5dc1645cb71cf4c42",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "176dadcc-aa26-5c02-a651-88867760143b": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-styled-components",
+      "id": "176dadcc-aa26-5c02-a651-88867760143b",
+      "name": "gatsby-plugin-styled-components",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "styled-components",
+            "version": ">=2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "04e4e9e97fe1c5c0e2e9aab1a042c254",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6ce21a04-9a25-5a00-9f12-d64a7c263b22": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-source-filesystem",
+      "id": "6ce21a04-9a25-5a00-9f12-d64a7c263b22",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/dupouy/Documents/A_cab/MySite/src/images/",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.20",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c62c57b664d4ca55effb9043ca626058",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.13",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.13",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d74f26335457c674528c958dffcfed4d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4045545814a4391d4116e6547a09dbc0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "fa1b4c05-fa88-524c-ab84-e9a2705fd43d": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-manifest",
+      "id": "fa1b4c05-fa88-524c-ab84-e9a2705fd43d",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.17",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Cara - Gatsby Starter Portfolio",
+        "short_name": "Cara",
+        "description": "Playful & Colorful One-Page website with Parallax effect",
+        "start_url": "/",
+        "background_color": "#a0d8f1",
+        "theme_color": "#e07628",
+        "display": "standalone",
+        "icons": [
+          {
+            "src": "/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/favicons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.17",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d7b948292d99ba37a884f8935bb33515",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-offline",
+      "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "name": "gatsby-plugin-offline",
+      "version": "2.0.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker",
+        "onServiceWorkerActive",
+        "onPostPrefetchPathname"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "2.0.22",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "cpx",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "idb-keyval",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "workbox-build",
+            "version": "^3.6.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.100"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "caf0aa46f41d907622a9964b5ff24865",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "54e3ea36-236a-5532-9628-10debfd8525c": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-netlify",
+      "id": "54e3ea36-236a-5532-9628-10debfd8525c",
+      "name": "gatsby-plugin-netlify",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig",
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-netlify",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify",
+        "description": "A Gatsby plugin which generates a _headers file for netlify",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "http/2-server-push",
+          "netlify"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "kebab-hash",
+            "version": "^0.1.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "webpack-assets-manifest",
+            "version": "^3.0.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2a3f4e6d2979341886c028614acab3a3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "948a0c3e2e3aca20a2df12e91e7fa797",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite",
+      "packageJson": {
+        "name": "gatsby-starter-portfolio-cara",
+        "description": "Playful & Colorful One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
+        "version": "3.0.0",
+        "keywords": [
+          "gatsby",
+          "starter",
+          "portfolio"
+        ],
+        "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": "^1.10.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.78"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.25"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.13"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^2.0.6"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.12"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.9"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-spring",
+            "version": "^7.2.7"
+          },
+          {
+            "name": "styled-components",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "tailwind.macro",
+            "version": "^0.5.10"
+          },
+          {
+            "name": "tailwindcss",
+            "version": "^0.7.3"
+          },
+          {
+            "name": "typeface-cantata-one",
+            "version": "^0.0.54"
+          },
+          {
+            "name": "typeface-open-sans",
+            "version": "^0.0.54"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-eslint",
+            "version": "^10.0.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.11.1"
+          },
+          {
+            "name": "eslint-config-airbnb",
+            "version": "^17.1.0"
+          },
+          {
+            "name": "eslint-config-prettier",
+            "version": "^3.3.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.14.0"
+          },
+          {
+            "name": "eslint-plugin-jsx-a11y",
+            "version": "^6.1.2"
+          },
+          {
+            "name": "eslint-plugin-prettier",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.12.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.15.3"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8f5d12dea7602c7d135178b84d68db56",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "23f3a17b-f651-5721-a5e3-b55705aa8434": {
+      "resolve": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-page-creator",
+      "id": "23f3a17b-f651-5721-a5e3-b55705aa8434",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.6",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/home/dupouy/Documents/A_cab/MySite/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/home/dupouy/Documents/A_cab/MySite/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "32120cf1d685e31922e7e934deac66ba",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "siteUrl": "https://cara.lekoarts.de"
+      },
+      "port": 8001,
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-02-02T20:50:33.751Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "cf00eae667d8e7171b583d67cc98a33c",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "56a2cc71-6acc-5fd5-86b8-bd3c732b880e": {
+      "id": "56a2cc71-6acc-5fd5-86b8-bd3c732b880e",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3ccf28f338e8f21614a3bc185fee462a",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/dupouy/Documents/A_cab/MySite/src/images/",
+      "relativePath": "",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2019-02-02T20:49:38.730Z",
+      "accessTime": "2019-02-02T20:50:41.810Z",
+      "changeTime": "2019-02-02T20:49:38.730Z",
+      "birthTime": "2019-02-02T20:49:38.730Z",
+      "root": "/",
+      "dir": "/home/dupouy/Documents/A_cab/MySite/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 2049,
+      "mode": 16893,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12326999,
+      "blocks": 8,
+      "atimeMs": 1549140641810.3738,
+      "mtimeMs": 1549140578730.1,
+      "ctimeMs": 1549140578730.1,
+      "birthtimeMs": 1549140578730.1,
+      "atime": "2019-02-02T20:50:41.810Z",
+      "mtime": "2019-02-02T20:49:38.730Z",
+      "ctime": "2019-02-02T20:49:38.730Z",
+      "birthtime": "2019-02-02T20:49:38.730Z"
+    },
+    "ed5daa26-f775-5cc1-a9f1-974e9b6b1c79": {
+      "id": "ed5daa26-f775-5cc1-a9f1-974e9b6b1c79",
+      "children": [
+        "4c9aae36-7b36-5e36-860a-9af9c4f4c109"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4259efa52993121452874b9fa3ce13cf",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/avatar.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/dupouy/Documents/A_cab/MySite/src/images/avatar.jpg",
+      "relativePath": "avatar.jpg",
+      "extension": "jpg",
+      "size": 139184,
+      "prettySize": "139 kB",
+      "modifiedTime": "2019-02-02T20:31:38.660Z",
+      "accessTime": "2019-02-02T20:49:50.306Z",
+      "changeTime": "2019-02-02T20:49:38.730Z",
+      "birthTime": "2019-02-02T20:49:38.730Z",
+      "root": "/",
+      "dir": "/home/dupouy/Documents/A_cab/MySite/src/images",
+      "base": "avatar.jpg",
+      "ext": ".jpg",
+      "name": "avatar",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12194758,
+      "blocks": 272,
+      "atimeMs": 1549140590306.1514,
+      "mtimeMs": 1549139498659.657,
+      "ctimeMs": 1549140578730.1,
+      "birthtimeMs": 1549140578730.1,
+      "atime": "2019-02-02T20:49:50.306Z",
+      "mtime": "2019-02-02T20:31:38.660Z",
+      "ctime": "2019-02-02T20:49:38.730Z",
+      "birthtime": "2019-02-02T20:49:38.730Z"
+    },
+    "5581cc6c-c99c-56ae-8f33-558228cc9dd7": {
+      "id": "5581cc6c-c99c-56ae-8f33-558228cc9dd7",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "9bec4885c09a08972dd775e16122acaf",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/triangle.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/home/dupouy/Documents/A_cab/MySite/src/images/triangle.svg",
+      "relativePath": "triangle.svg",
+      "extension": "svg",
+      "size": 259,
+      "prettySize": "259 B",
+      "modifiedTime": "2019-01-31T21:52:04.000Z",
+      "accessTime": "2019-02-02T20:10:12.110Z",
+      "changeTime": "2019-02-02T20:02:33.661Z",
+      "birthTime": "2019-02-02T20:02:33.661Z",
+      "root": "/",
+      "dir": "/home/dupouy/Documents/A_cab/MySite/src/images",
+      "base": "triangle.svg",
+      "ext": ".svg",
+      "name": "triangle",
+      "relativeDirectory": "",
+      "dev": 2049,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12327001,
+      "blocks": 8,
+      "atimeMs": 1549138212110.2068,
+      "mtimeMs": 1548971524000,
+      "ctimeMs": 1549137753661.1125,
+      "birthtimeMs": 1549137753661.1125,
+      "atime": "2019-02-02T20:10:12.110Z",
+      "mtime": "2019-01-31T21:52:04.000Z",
+      "ctime": "2019-02-02T20:02:33.661Z",
+      "birthtime": "2019-02-02T20:02:33.661Z"
+    },
+    "4c9aae36-7b36-5e36-860a-9af9c4f4c109": {
+      "id": "4c9aae36-7b36-5e36-860a-9af9c4f4c109",
+      "children": [],
+      "parent": "ed5daa26-f775-5cc1-a9f1-974e9b6b1c79",
+      "internal": {
+        "contentDigest": "4259efa52993121452874b9fa3ce13cf",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/dupouy/Documents/A_cab/MySite/src/pages/index.jsx",
+      "componentChunkName": "component---src-pages-index-jsx",
+      "context": {},
+      "pluginCreator___NODE": "23f3a17b-f651-5721-a5e3-b55705aa8434",
+      "pluginCreatorId": "23f3a17b-f651-5721-a5e3-b55705aa8434",
+      "componentPath": "/home/dupouy/Documents/A_cab/MySite/src/pages/index.jsx",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ae60796c595ef1772b09afa127423470",
+        "description": "23f3a17b-f651-5721-a5e3-b55705aa8434",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "1c782d16afb601e191ea608e3df39725"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-seo-jsx"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "sq--src-components-seo-jsx": 77616083,
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E"
+  },
+  "components": {
+    "/home/dupouy/Documents/A_cab/MySite/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/home/dupouy/Documents/A_cab/MySite/.cache/dev-404-page.js"
+    },
+    "/home/dupouy/Documents/A_cab/MySite/src/pages/index.jsx": {
+      "query": "",
+      "componentPath": "/home/dupouy/Documents/A_cab/MySite/src/pages/index.jsx"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-seo-jsx": {
+      "name": "SEO",
+      "componentPath": "/home/dupouy/Documents/A_cab/MySite/src/components/SEO.jsx",
+      "id": "sq--src-components-seo-jsx",
+      "jsonName": "sq--src-components-seo-jsx",
+      "query": "query SEO {\n  site {\n    buildTime(formatString: \"YYYY-MM-DD\")\n  }\n}\n",
+      "hash": 77616083
+    }
+  }
+}

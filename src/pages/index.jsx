@@ -63,15 +63,15 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm John Doe.
+          Hello, <br /> I'm Fred DUPOUY.
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>I'm currently building this site.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
+            title="Battle of douchebags"
             link="https://www.behance.net/gallery/58937147/Freiheit"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
@@ -85,7 +85,7 @@ const Index = () => (
             I entered the DOCMA 2017 award with this Harry Potter inspired image.
           </ProjectCard>
           <ProjectCard
-            title="Tomb Raider"
+            title="Battle of douchebags"
             link="https://www.behance.net/gallery/43907099/Tomb-Raider"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
@@ -101,12 +101,11 @@ const Index = () => (
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
-        <Title>About</Title>
+        <Title>Me myself & I</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={avatar} alt="Frédéric David DUPOUY" />
           <AboutSub>
-            The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-            Emoji into my speech to better express myself. Winky face.
+            Bon, autant ne pas faire d'esbroufe, je remplirai ce petit laïus un peu plus tard sur moi, moi même & je.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
@@ -119,17 +118,17 @@ const Index = () => (
       </About>
       <Contact offset={4}>
         <Inner>
-          <Title>Get in touch</Title>
+          <Title>Contact</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
+Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms (en fait non pour l'instant):{' '}
             <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
             <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
+          &copy; 2019 by FredDPY{' '}
+          <a href="https://github.com/fredski33/MySite">Github Repository</a>. Based on{' '}
+          <a href="https://www.lekoarts.de">gatsby-starter-portfolio-cara by LekoArts</a>.
         </Footer>
       </Contact>
     </Parallax>
